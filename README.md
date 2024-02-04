@@ -11,8 +11,6 @@ All the shared material in this repository are my work including:
 
 ![IMG_0926](https://github.com/m3y54m/autcup-2015-robot-at-factory/assets/1549028/1fcd151f-7662-4169-951a-212a27c19b1e)
 
-![IMG_20141118_093548](https://github.com/m3y54m/autcup-2015-robot-at-factory/assets/1549028/8db06486-d376-4bb6-a4e4-652d770cbff7)
-
 ![IMG_20141118_093513](https://github.com/m3y54m/autcup-2015-robot-at-factory/assets/1549028/c831d21d-3957-4a7b-83e9-afd32faba40d)
 
 ![IMG_20141117_115450_1](https://github.com/m3y54m/autcup-2015-robot-at-factory/assets/1549028/bf27bc87-c20b-4089-902a-5db8cc031c89)
